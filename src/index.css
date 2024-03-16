@@ -1,0 +1,188 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #f1f3f4;
+  /* Color de fondo azul para el cuerpo */
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.app {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: white;
+  padding: 20px;
+  border: 2px solid #ffffff;
+  border-radius: 30px;
+  /* Hace que los bordes sean más redondeados */
+  width: 80%;
+  /* Ancho del cuadro */
+  height: 350px;
+  /* Altura del cuadro */
+}
+
+.primer{
+  position: fixed;
+  top: 40%;
+  left: 30%;
+  transform: translate(-170%, -50%);
+  padding: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.textoTres{
+  position: fixed;
+  top: 90%;
+  left: 57%;
+  transform: translate(-135%, -40%);
+  padding: 8px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.segundo {
+  position: fixed;
+  top: 40%;
+  left: 75%;
+  transform: translate(-50%, -50%);
+  background-color: white;
+  padding: 5px;
+  border: 1px solid #727272;
+  border-radius: 5px; /* Hace que los bordes sean más redondeados */
+  width: 43%; /* Ancho del cuadro */
+  height: 35px; /* Altura del cuadro */
+  
+}
+
+.correo {
+  position: fixed;
+  top: -15%;
+  left: 3%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  opacity: 0.5;
+}
+
+.textoDos {
+  position: fixed;
+  top: 95%;
+  left: 51%;
+  transform: translate(-107%, -28%);
+  padding: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: rgb(48, 74, 245);
+
+}
+
+.parrafo {
+  position: fixed;
+  top: 67%;
+  left: 58%;
+  transform: translate(-17%, -50%);
+  padding: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: rgb(48, 74, 245);
+}
+
+.texto {
+  position: fixed;
+  top: 60%;
+  left: 59%;
+  transform: translate(-15%, -50%);
+  padding: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: rgb(57, 57, 57);
+}
+
+.botonUno{
+  position: fixed;
+  top: 70%;
+  left: 74%;
+  transform: translate(-20%, -50%);
+  background-color: white;
+  padding: 5px;
+  border: 0px ;
+  border-radius: 5px; /* Hace que los bordes sean más redondeados */
+  width: 7%; /* Ancho del cuadro */
+  height: 35px; /* Altura del cuadro */
+  color: rgb(48, 74, 245);
+}
+
+.botonDos{
+  position: fixed;
+  top: 70%;
+  left: 85%;
+  transform: translate(-50%, -50%); 
+  padding: 5px;
+  border: 0px solid;
+  border-radius: 100px; /* Hace que los bordes sean más redondeados */
+  width: 6%; /* Ancho del cuadro */
+  height: 35px; /* Altura del cuadro */
+  background-color: #4285f4;
+  color: white;
+}
+
+.pUno{
+  position: fixed;
+  top: 80%;
+  left: 25%;
+  transform: translate(-170%, -50%);
+  padding: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.pDos{
+  position: fixed;
+  top: 80%;
+  left: 80%;
+  transform: translate(-170%, -50%);
+  padding: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.pTres{
+  position: fixed;
+  top: 80%;
+  left: 88%;
+  transform: translate(-170%, -50%);
+  padding: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.pCuatro{
+  position: fixed;
+  top: 80%;
+  left: 94%;
+  transform: translate(-170%, -50%);
+  padding: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
